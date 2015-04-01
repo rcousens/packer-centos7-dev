@@ -7,4 +7,3 @@ dev:
     - php
     - postgresql
     - redis
-    - ssl
